@@ -2,8 +2,8 @@
   <img src="https://yourbannerlink.com/banner.png" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋 I'm <span style="color:#3b82f6;">Jomel Tomeo</span></h1>
-<h3 align="center">Creative Full Stack Developer & Visual Designer</h3>
+<h1 align="center">Jomel Tomeo</span></h1>
+<h3 align="center"> Full Stack Web Developer</h3>
 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=react&logoColor=white"></a>
@@ -36,15 +36,6 @@ I love combining **creative design** with **scalable code**, crafting projects t
 | **Rentana** | Rental Property Management System with Predictive Analytics using MERN Stack and AI | [🔗 View Repo](https://github.com/jomeltomeo/rentana) |
 | **ICES Web System** | Community Service Management Platform for Students built with React, Tailwind, Express, and MongoDB | [🔗 View Repo](https://github.com/jomeltomeo/ices-system) |
 | **Virtual Classroom** | A modern virtual learning environment for schools, built with React + Express + Tailwind | [🔗 View Repo](https://github.com/jomeltomeo/classroom) |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomeltomeo&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jomeltomeo&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
