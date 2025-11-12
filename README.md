@@ -1,16 +1,27 @@
-<h1 style="color: blue;"> Jomel Tomeo </h1>
+<h1 style="color:blue;">Jomel Tomeo</h1>
 
-<!--
-**joctom/joctom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius:50%">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Full Stack Developer | Designer | Writer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 About Me
+I'm passionate about creating interactive, responsive, and secure web applications using the **MERN stack** and modern design tools like **Figma** and **TailwindCSS**.
+
+---
+
+### 🛠️ Skills
+- **Frontend:** React, TailwindCSS, Figma  
+- **Backend:** Node.js, Express, MongoDB  
+- **Others:** Git, REST APIs, Photoshop, Illustrator
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+</p>
