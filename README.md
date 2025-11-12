@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=react&logoColor=white"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jomel.tomeo.16@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
