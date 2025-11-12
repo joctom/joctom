@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1686BB&width=435&lines=Continuous+learning+for+growth+and+development;Building+cool+stuff+with+PERN!;Full-Stack+Web+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1686BB&width=435&lines=Continuous+learning+for+self-growth;Building+cool+stuff+with+PERN!;Full-Stack+Web+Development" alt="Typing SVG" /></a>
 </p>
