@@ -24,7 +24,7 @@ I love combining **creative design** with **scalable code**, crafting projects t
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,python,react,threejs,nodejs,express,mongodb,postgresql,postman,figma,blender,canva,adobephotoshop,adobeexpress,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,python,react,threejs,nodejs,express,mongodb,postgresql,postman,figma,blender,adobephotoshop,git" />
 </p>
 
 ---
