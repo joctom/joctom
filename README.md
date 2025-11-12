@@ -13,12 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
-I'm a passionate developer who transforms ideas into elegant digital experiences.  
-I love combining **creative design** with **scalable code**, crafting projects that tell stories through interactivity and flow.  
-
-💡 *“Design is intelligence made visible.”*  
-
+* Ongoing
 ---
 
 ## 🛠️ Tech Stack
@@ -30,19 +25,7 @@ I love combining **creative design** with **scalable code**, crafting projects t
 ---
 
 ## 🚀 Featured Projects
-
-| 💡 Project | 🧠 Description | 🔗 Link |
-|-------------|----------------|----------|
-| **Rentana** | Rental Property Management System with Predictive Analytics using MERN Stack and AI | [🔗 View Repo](https://github.com/jomeltomeo/rentana) |
-| **ICES Web System** | Community Service Management Platform for Students built with React, Tailwind, Express, and MongoDB | [🔗 View Repo](https://github.com/jomeltomeo/ices-system) |
-| **Virtual Classroom** | A modern virtual learning environment for schools, built with React + Express + Tailwind | [🔗 View Repo](https://github.com/jomeltomeo/classroom) |
-
----
-
-## 🎨 My Design Philosophy
-
-> “Every line of code should feel like part of a bigger artwork — seamless, intuitive, and alive.”
-
+* Ongoing
 ---
 
 ## 🌐 Connect with Me
