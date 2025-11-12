@@ -65,5 +65,5 @@ I love combining **creative design** with **scalable code**, crafting projects t
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Always+learning+new+things...;Building+cool+stuff+with+MERN!;Designing+creative+interfaces!"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1686BB&width=435&lines=Continuous+learning+for+growth+and+development;Building+cool+stuff+with+PERN!;Full-Stack+Web+Development" alt="Typing SVG" /></a>
 </p>
